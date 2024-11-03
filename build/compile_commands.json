@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/zhenya/Desktop/sfml1.2/build",
+  "command": "/usr/bin/clang++ -DSFML_STATIC -F/Users/zhenya/Library/Frameworks -iframework /Users/zhenya/Library/Frameworks/. -g -std=gnu++17 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.1.sdk -mmacosx-version-min=12.7 -iframework /Users/zhenya/Library/Frameworks/.  -o CMakeFiles/01.dir/main.cpp.o -c /Users/zhenya/Desktop/sfml1.2/main.cpp",
+  "file": "/Users/zhenya/Desktop/sfml1.2/main.cpp",
+  "output": "CMakeFiles/01.dir/main.cpp.o"
+}
+]
