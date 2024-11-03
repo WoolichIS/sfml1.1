@@ -1,0 +1,3 @@
+/Users/zhenya/Desktop/sfml1.1/CMakeFiles/01.dir
+/Users/zhenya/Desktop/sfml1.1/CMakeFiles/edit_cache.dir
+/Users/zhenya/Desktop/sfml1.1/CMakeFiles/rebuild_cache.dir
